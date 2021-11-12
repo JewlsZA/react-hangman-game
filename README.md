@@ -25,3 +25,6 @@ If a word contains more than one of the same letter, you only need to guess it o
 # How to play Hangman
 
 Enter your letter of choice into the text box provideed and click on the submit button to enter your letter. Once entered you will either get a wrong or correct guess. If you guess wrong the hangman would get one step closer to hanging, remember you only have 10 wrong guesses. If you guess correct the letter(s) would appear in the right place holder(s) location in the array of Dash symbols.
+
+## Play the game hosted on Heroku
+https://aqueous-fjord-06755.herokuapp.com
