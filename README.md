@@ -9,7 +9,7 @@ To install dependancies run the following in the terminal.
 ```
 npm install
 ```
-To start your local react and express servers, navigate to the backend and frontend file directory and run the following command in the terminal.
+To start your local react servers, navigate to the main app directory and run the following command in the terminal.
 ```
 npm start 
 ```
